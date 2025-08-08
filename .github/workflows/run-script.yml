@@ -36,7 +36,7 @@ jobs:
           fi
           
           echo "📅 $(date) - Running script.php..."
-          php script.php
+          php script-v2.php
           
           echo "✅ Script completed. Waiting 30 seconds..."
           sleep 30
